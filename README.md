@@ -11,6 +11,7 @@ What does a banjo have to do with software development? They both require learni
 * [Asking Questions Shows Strength, Not Weakness](https://jeremybytes.blogspot.com/2016/10/asking-questions-shows-strength-not.html)  
 * [Don't Be Afraid to Show What You Don't Know](https://jeremybytes.blogspot.com/2016/05/dont-be-afraid-to-show-what-you-dont.html)  
 * [Help Those Behind You](https://jeremybytes.blogspot.com/2016/09/help-those-behind-you.html)  
+* [Meet the Next Code Camp (or User Group) Speaker: You!](https://jeremybytes.blogspot.com/2011/08/meet-next-code-camp-speaker-you.html)  
 * [Thank You, Linda Rising](https://jeremybytes.blogspot.com/2017/04/thank-you-linda-rising.html)  
 * [Jeremy Explores Functional Programming (including Euler Problems)](https://jeremybytes.blogspot.com/p/article-collection-1.html)  
 * [Low Risk vs. High Risk](https://jeremybytes.blogspot.com/2016/11/low-risk-vs-high-risk.html)  
